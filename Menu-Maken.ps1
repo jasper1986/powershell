@@ -44,6 +44,7 @@ function Optie2 {
     Write-Host "Functie: 2"
 }
 
+# Functie voor keuze optie: 3
 function Optie3 {
     Clear-Host
     Write-Host "Functie: 3"
