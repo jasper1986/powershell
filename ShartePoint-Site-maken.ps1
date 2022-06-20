@@ -1,8 +1,8 @@
-﻿# Parameters
+# Parameters
 $module = 'Microsoft.Online.SharePoint.PowerShell'
-$adminURL = 'https://jportalnl-admin.sharepoint.com//'
-$siteURL = 'https://jportalnl.sharepoint.com/sites/communications'
-$siteTitle = 'Communicatie site'
+$adminURL = 'https://jportalnl-admin.sharepoint.com/'
+$siteURL = 'https://jportalnl.sharepoint.com/sites/Test'
+$siteTitle = 'Test site'
 $siteOwner = 'info@jportal.nl'
 $template = 'SITEPAGEPUBLISHING#0'
 $quota = 2048
