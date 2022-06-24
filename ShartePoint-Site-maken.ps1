@@ -1,4 +1,4 @@
-﻿# Parameters
+# Parameters
 $module = 'Microsoft.Online.SharePoint.PowerShell'
 $adminURL = 'https://jportalnl-admin.sharepoint.com/'
 $siteURL = 'https://jportalnl.sharepoint.com/sites/Test'
